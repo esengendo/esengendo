@@ -5,7 +5,7 @@ My name is Emmanuel and I'm a University of Michigan (Ann Arbor) trained Data Sc
 - 🔭 I’m currently working on developing a "Help tool Chatbot" that leverages a latest open-source LLM model.
 - 🌱 I’m currently learning the Langchain framework.
 - 👯 I’m looking to collaborate on all data science Projects, especially those in the NLP.
-     📫 How to reach me: Please send me ideas to esengendo@gmail.com
+- 📫 How to reach me: Please send me ideas, suggestions to esengendo@gmail.com
   
 
 
