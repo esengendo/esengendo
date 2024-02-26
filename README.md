@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Emmanuel and I'm a University of Michigan (Ann Arbor) trained Data Scientist interested in all things Machine Learning and Python!
+My name is Emmanuel and a I'm a University of Michigan (Ann Arbor) trained Data Scientist interested in all things Machine Learning and Python!  I live in the beautiful San Francisco Bay Area, California USA.
 
 - 🔭 I’m currently working on developing a "Customer Help Tool Chatbot" that leverages a latest open-source LLM model.
 - 🌱 I’m currently learning the Langchain framework.
