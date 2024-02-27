@@ -19,7 +19,7 @@ B.S., Business Administration - Information Technology | California State Univer
 
 #### End-To-End Text-To-SQL Querying Application
 
-- Engineered "IntelliQuery," integrating Google Palm and LangChain with a custom MySQL database (Threadz E-Store) and Streamlit, for advanced, intuitive database query, and data extraction.
+- Engineered "IntelliQuery," integrating **Google Palm** and **LangChain** with a custom **MySQL** database (Threadz E-Store) and **Streamlit**, for advanced, intuitive database query, and data extraction.
 - Utilized Few Shot Prompting to optimize SQL database querying and data retrieval, enhancing user experience and efficiency.
 - Streamlined access to essential data insights via Streamlit-interggrated Text-to-SQL web page, simplifying complex data operations.
 [link](https://github.com/esengendo/E2E-Retail-Project)
@@ -27,7 +27,7 @@ B.S., Business Administration - Information Technology | California State Univer
 
 #### Multi-PDF Document Query and Response Application
 
-- Developed a PDF Conversational Interface Application integrating LangChain, OpenAI, and Streamlit, enabling interactive document engagement through a conversational chat interface.
+- Built a PDF Conversational Interface Application integrating **LangChain**, **OpenAI**, and **Streamlit**, enabling interactive document engagement through a conversational chat interface.
 - Implemented text extraction and advanced processing techniques to segment and vectorize PDF content for efficient information retrieval.
 - Engineered a responsive Q&A system utilizing conversational models and memory buffers to deliver precise information from PDFs to users.
 - Designed a user-friendly Streamlit web interface for easy PDF upload, question posing, and instant response viewing.
@@ -42,11 +42,17 @@ B.S., Business Administration - Information Technology | California State Univer
 
 #### San Francisco Business Closure Analysis Project
 
-- Engineered a predictive model with machine learning algorithms to forecast San Francisco business closures using historical datasets, targeting key economic and demographic predictors.
+- Engineered a predictive **XGBoost Classifier** to forecast San Francisco business closures using historical datasets, targeting key economic and demographic predictors.
   
 - Leveraged data science methodologies, including geospatial analytics and clustering, to map and interpret business viability across San Francisco, providing data-driven recommendations for economic strategy and policy development.
 [link](https://github.com/esengendo/SanFranBusinesses)
-  
+
+#### Nvidia Stock Price Analysis
+
+- Implemented **LSTM** networks and **MACD** signals to analyze and predict NVIDIA Corporation stock movements using historical data.
+- Developed a machine learning model to visualize and forecast stock trends, focusing on educational and exploratory analysis.
+- Provided an **interactive Streamlit application** for users to engage with and explore stock price predictions and technical indicators.
+[link](https://github.com/esengendo/stockpredmacd)
 
 ### Work Experience
 
