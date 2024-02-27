@@ -12,6 +12,7 @@ My name is Emmanuel and I'm a University of Michigan trained Data Scientist inte
 ### Education
 
 Master of Applied Data Science | University of Michigan at Ann Arbor
+
 B.S., Business Administration - Information Technology | California State University - East Bay
 
 ## Projects
