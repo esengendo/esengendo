@@ -7,7 +7,17 @@ My name is Emmanuel and a I'm a University of Michigan (Ann Arbor) trained Data 
 - 👯 I’m looking to collaborate on all data science Projects, especially those in the NLP.
 - 📫 How to reach me: Please send me ideas, suggestions to esengendo@gmail.com
   
+## Technical Skills: Python, SQL, AWS, LangChain
 
+## Education
+
+M.S., Physics | The University of Texas at Dallas (December 2019)
+B.S., Physics | The University of Texas at Dallas (May 2017)
+
+## Projects
+
+
+## Work Experience
 
 <!--
 **esengendo/esengendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
