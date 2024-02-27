@@ -17,7 +17,7 @@ B.S., Business Administration - Information Technology | California State Univer
 
 ### Projects
 
-End-To-End Text-to-SQL Querying Tool
+End-To-End Text
 
 ![image](https://github.com/esengendo/esengendo/assets/69552636/280521c8-1af5-4db3-adbb-ee8ccd287e20)
 
