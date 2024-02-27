@@ -43,7 +43,6 @@ B.S., Business Administration - Information Technology | California State Univer
 #### San Francisco Business Closure Analysis Project
 
 - Engineered a predictive **XGBoost Classifier** to forecast San Francisco business closures using historical datasets, targeting key economic and demographic predictors.
-  
 - Leveraged data science methodologies, including geospatial analytics and clustering, to map and interpret business viability across San Francisco, providing data-driven recommendations for economic strategy and policy development.
 [link](https://github.com/esengendo/SanFranBusinesses)
 
