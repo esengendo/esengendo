@@ -19,19 +19,25 @@ B.S., Business Administration - Information Technology | California State Univer
 
 #### End-To-End Text-To-SQL Querying Application
 
-I built this IntelliQuery, an end-to-end Text-to-SQL conversion and database querying application that leverages LLMs in data extraction. The application integrates Google Palm and LangChain with a MySQL database (Threadz E-Store), and leverages Streamlit for an advanced yet intuitive user interface. By harnessing the power of Few Shot Prompting, the application optimizes SQL database querying, significantly enhancing the user experience and operational efficiency. The Streamlit-integrated Text-to-SQL tool within IntelliQuery not only simplifies complex database interactions but also augments data insights, streamlining the entire process of data management and setting a new benchmark for efficiency in the field.
+- Engineered "IntelliQuery," integrating Google Palm and LangChain with a custom MySQL database (Threadz E-Store) and Streamlit, for advanced, intuitive database query, and data extraction.
+- Utilized Few Shot Prompting to optimize SQL database querying and data retrieval, enhancing user experience and efficiency.
+- Streamlined access to essential data insights via Streamlit-interggrated Text-to-SQL web page, simplifying complex data operations.
 [link](https://github.com/esengendo/E2E-Retail-Project)
 
 
 #### Multi-PDF Document Query and Response Application
 
-I built a PDF Conversational Interface Application that harnesses the power of LangChain, OpenAI, and Streamlit, providing users with the ability to upload, process, and interact with PDF documents in a conversational manner. This tool aims to offer an intuitive, responsive, and seamless experience for extracting and querying document information, thereby enhancing knowledge accessibility and user engagement.
+- Developed a PDF Conversational Interface Application integrating LangChain, OpenAI, and Streamlit, enabling interactive document engagement through a conversational chat interface.
+- Implemented text extraction and advanced processing techniques to segment and vectorize PDF content for efficient information retrieval.
+- Engineered a responsive Q&A system utilizing conversational models and memory buffers to deliver precise information from PDFs to users.
+- Designed a user-friendly Streamlit web interface for easy PDF upload, question posing, and instant response viewing.
 [link](https://github.com/esengendo/PDFConversation)
 
 
 #### IT Helpdesk Ticket Time Predction Analysis
 
-I designed this project to center on constructing a machine learning model to forecast the resolution times for IT helpdesk tickets. Advanced Natural Language Processing (NLP) techniques such as text summarization and sentiment analysis are employed to distill salient features from ticket narratives, enhancing the model's predictive capability. Analyzing historical ticket data from a Kaggle's IT Helpdesk Dataset, the project aims to bolster customer satisfaction and improve operational workflows and resource deployment within IT helpdesk services, showcasing the synergy of data science and NLP in refining support mechanisms.
+- Crafted an ML model leveraging NLP to predict IT ticket resolution times, enhancing efficiency and customer satisfaction.
+- Employed text summarization and sentiment analysis for feature extraction to boost predictive accuracy.
 [link](https://github.com/esengendo/ticketanalysis)
 
 #### San Francisco Business Closure Analysis Project
