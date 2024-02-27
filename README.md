@@ -34,7 +34,7 @@ B.S., Business Administration - Information Technology | California State Univer
 [link](https://github.com/esengendo/PDFConversation)
 
 
-#### IT Helpdesk Ticket Time Predction Analysis
+#### IT Helpdesk Ticket Time Prediction Analysis
 
 - Crafted an ML model leveraging NLP to predict IT ticket resolution times, enhancing efficiency and customer satisfaction.
 - Employed text summarization and sentiment analysis for feature extraction to boost predictive accuracy.
