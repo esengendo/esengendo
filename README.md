@@ -19,6 +19,8 @@ B.S., Business Administration - Information Technology | California State Univer
 
 End-To-End Text-To-SQL Querying Application
 
+I designed IntelliQuery, an end-to-end Text-to-SQL conversion and database querying application that epitomizes the cutting edge in data extraction technology. The application ingeniously integrates Google Palm and LangChain with a MySQL database, specifically the Threadz E-Store, and leverages Streamlit for an advanced yet intuitive user interface. By harnessing the power of Few Shot Prompting, IntelliQuery optimizes SQL database querying, significantly enhancing the user experience and operational efficiency. The Streamlit-integrated Text-to-SQL tool within IntelliQuery not only simplifies complex database interactions but also augments data insights, streamlining the entire process of data management and setting a new benchmark for efficiency in the field.
+[link](https://github.com/esengendo/E2E-Retail-Project)
 
 ### Work Experience
 
