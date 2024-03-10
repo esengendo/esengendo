@@ -46,6 +46,11 @@ B.S., Business Administration - Information Technology | California State Univer
 - Leveraged data science methodologies, including geospatial analytics and clustering, to map and interpret business viability across San Francisco, providing data-driven recommendations for economic strategy and policy development.
 [link](https://github.com/esengendo/SanFranBusinesses)
 
+#### Emotion Detector Image Classification App
+
+- Implemented a comprehensive image preprocessing pipeline and leveraged TensorFlow's Sequential model architecture for facial expression analysis in diverse human emotions.  I then deployed the classification web application using TensorFlow and Streamlit.
+[link](https://github.com/esengendo/ImageClassification)
+
 #### Nvidia Stock Price Analysis
 
 - Implemented **LSTM** networks and **MACD** signals to analyze and predict NVIDIA Corporation stock movements using historical data.
