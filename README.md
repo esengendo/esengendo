@@ -1,13 +1,32 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is Emmanuel and I'm a University of Michigan trained Data Scientist interested in all things Machine Learning and Python!  I live in the beautiful San Francisco Bay Area, California USA.
+## About Me
 
-- 🔭 I’m currently working on developing a "Customer Help Tool Chatbot" that leverages a latest open-source LLM model.
-- 🌱 I’m currently learning the Langchain framework.
-- 👯 I’m looking to collaborate on all data science Projects, especially those in the NLP.
-- 📫 How to reach me: esengendo@gmail.com
-  
-#### Technical Skills: Python, SQL, AWS, LangChain
+I'm Emmanuel Sengendo, a University of Michigan-trained Data Scientist passionate about Machine Learning, Artificial Intelligence, and solving complex business problems through data. Based in the beautiful San Francisco Bay Area, I bring technical expertise and creative problem-solving to every project.
+
+## What I'm Working On
+
+- 🔭 Developing a customer service AI assistant powered by state-of-the-art LLMs with optimized context handling and domain-specific fine-tuning
+- 🌱 Advancing my skills in the LangChain framework for building sophisticated AI applications
+- 🏥 Recently completed a spatial-aware hospital recommendation system using neural collaborative filtering and geospatial analysis
+- 🧠 Exploring emerging techniques in multi-modal machine learning and retrieval-augmented generation
+
+## Technical Expertise
+
+- **Machine Learning**: PyTorch, TensorFlow, scikit-learn, deep learning architectures
+- **Data Engineering**: SQL, ETL pipelines, data preprocessing, feature engineering
+- **Cloud & MLOps**: AWS
+- **Languages & Frameworks**: Python (advanced), SQL, LangChain, Pandas, NumPy
+- **Visualization**: Plotly, Matplotlib, Tableau, geospatial mapping
+- **Natural Language Processing**: Transformers, sentiment analysis, text classification
+
+## Let's Connect
+
+I'm open to collaboration on data science projects, particularly those involving NLP, recommendation systems, or healthcare applications.
+
+📫 Email: esengendo@gmail.com  
+🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/esengendo/)  
+💻 GitHub: [Your GitHub Profile](https://github.com/esengendo)
 
 ### Education
 
@@ -16,6 +35,15 @@ Master of Applied Data Science | University of Michigan at Ann Arbor
 B.S., Business Administration - Information Technology | California State University - East Bay
 
 ### Projects
+
+#### Spatial-Aware Hospital Recommendation System
+
+- Developed a spatial-aware deep learning recommendation system that helps patients find hospitals matching their care priorities and location preferences.
+- Engineered custom PyTorch neural network architecture achieving 99.95% accuracy (R² score) by combining collaborative filtering with geospatial features.
+- Processed and enhanced HCAHPS dataset covering 4,780 healthcare facilities with geocoding, distance metrics, and hospital density features.
+- Created interactive visualizations revealing geographical patterns in hospital quality and demonstrating recommendation results based on user preferences.
+- Implemented production-ready recommendation algorithm that balances healthcare quality with practical location constraints for real-world patient decision support.
+[link](https://github.com/esengendo/spatial-hospital-recommendation-system)
 
 #### End-To-End Text-To-SQL Querying Application
 
