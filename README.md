@@ -25,8 +25,8 @@ I'm Emmanuel Sengendo, a University of Michigan-trained Data Scientist passionat
 I'm open to collaboration on data science projects, particularly those involving NLP, recommendation systems, or healthcare applications.
 
 📫 Email: esengendo@gmail.com  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/esengendo/)  
-💻 GitHub: [Your GitHub Profile](https://github.com/esengendo)
+🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/esengendo/)  
+💻 GitHub: [GitHub](https://github.com/esengendo)
 
 ### Education
 
