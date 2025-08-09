@@ -75,13 +75,16 @@ Hi there! 👋 I’m Emmanuel, a data scientist who builds machine learning syst
 ---
 
 ## 📄 About Me
+  
+*  **Passionate about exploring emerging technologies** like large language models (LLMs) and applying them to enable smarter, data-driven decision-making.
 
-I care about shipping reliable, explainable AI:
+*  **Skilled in troubleshooting** complex technical challenges and delivering innovative, scalable solutions.
 
-* **Shipping:** notebooks → services (FastAPI) → containers → cloud
-* **Observability:** metrics, logs, drift detection, SLOs
-* **Collaboration:** clear READMEs, Loom walkthroughs, issue-driven roadmaps
+*  **Strong technical foundation** built on years of technology support experience, now applied to impactful data science, machine learning, and AI engineering projects.
 
+*  **Committed to aligning technical innovation with business goals** to maximize value and outcomes.
+
+  
 **Downloadables:**
 
 * [Resume (PDF)](/resume.pdf)
