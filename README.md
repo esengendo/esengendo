@@ -92,8 +92,8 @@ I care about shipping reliable, explainable AI:
 ## 📬 Contact
 
 * **Email:** [email](mailto:esengendo@gmail.com)
-* **GitHub:** [github.com/esengendo](https://github.com/esengendo)
-* **LinkedIn:** [linkedin.com/in/](https://www.linkedin.com/in/)
+* **GitHub:** [github](https://github.com/esengendo)
+* **LinkedIn:** [linkedin](https://www.linkedin.com/in/)
 
 ---
 
