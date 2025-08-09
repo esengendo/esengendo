@@ -1,110 +1,102 @@
-# Hi there 👋
+# Emmanuel Sengendo — Data Scientist & ML Engineer
 
-## About Me
+Hi there! 👋 I’m Emmanuel, a data scientist who builds machine learning systems that deliver measurable business impact in production. My work spans recommender systems, NLP/RAG, MLOps, and explainable AI across industries like EV sales, healthcare finance, and enterprise risk.
 
-I'm Emmanuel Sengendo, a University of Michigan-trained Data Scientist passionate about Machine Learning, Artificial Intelligence, and solving complex business problems through data. Based in the beautiful San Francisco Bay Area, I bring technical expertise and creative problem-solving to every project.
+---
 
-## What I'm Working On
+## 🚀 Featured Projects
 
-- 🔭 Developing a customer service AI assistant powered by state-of-the-art LLMs with optimized context handling and domain-specific fine-tuning
-- 🌱 Advancing my skills in the LangChain framework for building sophisticated AI applications
-- 🏥 Recently completed a spatial-aware hospital recommendation system using neural collaborative filtering and geospatial analysis
-- 🧠 Exploring emerging techniques in multi-modal machine learning and retrieval-augmented generation
+### 1. **EV Lead Generation Intelligence Platform**
 
-## Technical Expertise
+*Turns YouTube engagement into qualified EV sales leads.*
 
-- **Machine Learning**: PyTorch, TensorFlow, scikit-learn, deep learning architectures
-- **Data Engineering**: SQL, ETL pipelines, data preprocessing, feature engineering
-- **Cloud & MLOps**: AWS
-- **Languages & Frameworks**: Python (advanced), SQL, LangChain, Pandas, NumPy
-- **Visualization**: Plotly, Matplotlib, Tableau, geospatial mapping
-- **Natural Language Processing**: Transformers, sentiment analysis, text classification
+* **Impact:** Reduced cost-per-lead by 90% (from \$25 to \~\$2.50), achieved 12.6% conversion in tests.
+* **Highlights:**
 
-## Let's Connect
+  * 94% sentiment accuracy, 97% lead scoring accuracy (CV)
+  * Processes 1,695 comments/min; 60–80% GPU speedup
+* **Tech:** Python, HuggingFace BERT, scikit-learn, Plotly, Docker
+* **Links:** [GitHub](https://github.com/esengendo/youtube-ev-leadgen) | [Docker Hub](https://hub.docker.com/r/esengendo730/youtube-ev-leadgen)
 
-I'm open to collaboration on data science projects, particularly those involving NLP, recommendation systems, or healthcare applications.
+### 2. **Hospital Financial Intelligence Platform**
 
-📫 Email: esengendo@gmail.com  
-🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/esengendo/)  
-💻 GitHub: [GitHub](https://github.com/esengendo)
+*Enterprise healthcare analytics with production ML & MLOps.*
 
-### Education
+* **Impact:** ROC-AUC 99.5%, PR-AUC 90.9% — full methodology documented.
+* **Highlights:**
 
-Master of Applied Data Science | University of Michigan at Ann Arbor
+  * 147 engineered features; SHAP explainability
+  * CI/CD pipelines, hardened Docker images, AWS/GCP/Azure-ready
+* **Tech:** XGBoost, SHAP, Pandas, Streamlit, Docker, LLM (Groq)
+* **Links:** [GitHub](https://github.com/esengendo/hospital-financial-intelligence) | [Docker Hub](https://hub.docker.com/r/esengendo730/hospital-financial-ai) | [Docs](https://github.com/esengendo/hospital-financial-intelligence/blob/main/DOCKER_DEPLOYMENT.md)
 
-B.S., Business Administration - Information Technology | California State University - East Bay
+### 3. **AutoRisk-GPT**
 
-### Projects
+*SEC filings + earnings calls → real-time financial risk intelligence.*
 
-#### Spatial-Aware Hospital Recommendation System
+* **Impact:** Delivered \$25M+ ROI by replacing \$50K/month commercial risk analysis tools.
+* **Highlights:**
 
-- Developed a spatial-aware deep learning recommendation system that helps patients find hospitals matching their care priorities and location preferences.
-- Engineered custom PyTorch neural network architecture achieving 99.95% accuracy (R² score) by combining collaborative filtering with geospatial features.
-- Processed and enhanced HCAHPS dataset covering 4,780 healthcare facilities with geocoding, distance metrics, and hospital density features.
-- Created interactive visualizations revealing geographical patterns in hospital quality and demonstrating recommendation results based on user preferences.
-- Implemented production-ready recommendation algorithm that balances healthcare quality with practical location constraints for real-world patient decision support.
-[link](https://github.com/esengendo/spatial-hospital-recommendation-system)
+  * Hybrid vector/BM25 retrieval with FAISS & BGE-M3 embeddings
+  * FinBERT sentiment, multi-dimensional XGBoost risk models, SHAP explanations
+  * <2s LLM responses at 500+ concurrent users
+* **Tech & Architecture:** FastAPI, FAISS, BGE-M3, FinBERT, XGBoost, Docker, Streamlit; microservices for ingestion, NLP, vector store, AI/ML engine, API/dashboard, compliance modules.
+* **Key Features:**
 
-#### End-To-End Text-To-SQL Querying Application
+  * Advanced NLP (entity recognition, sentiment, risk indicators)
+  * RAG pipeline with hybrid retrieval
+  * Risk scoring with SHAP explainability
+  * Real-time Streamlit dashboard with executive metrics
+* **Business Impact:** 94%+ accuracy, <2s response, 95% cost savings vs commercial solutions
+* **Repo:** [AutoRisk-GPT on GitHub](https://github.com/esengendo/AutoRisk-GPT)
 
-- Engineered "IntelliQuery," integrating **Google Palm** and **LangChain** with a custom **MySQL** database (Threadz E-Store) and **Streamlit**, for advanced, intuitive database query, and data extraction.
-- Utilized Few Shot Prompting to optimize SQL database querying and data retrieval, enhancing user experience and efficiency.
-- Streamlined access to essential data insights via Streamlit-interggrated Text-to-SQL web page, simplifying complex data operations.
-[link](https://github.com/esengendo/E2E-Retail-Project)
+---
+
+## 🛠 Skills & Tooling
+
+**ML & NLP**
+
+* Recommenders, XGBoost, PyTorch
+* Transformers, RAG, embeddings
+* Model evaluation, bias tests, SHAP explainability
+
+**Data & MLOps**
+
+* ETL, SQL, feature stores
+* FastAPI services, Docker, CI/CD
+* Monitoring, drift detection, observability
+
+**Product & BI**
+
+* Executive dashboards (Plotly, Streamlit)
+* A/B testing, ROI & cost analysis
+* Business storytelling for stakeholders
+
+---
+
+## 📄 About Me
+
+I care about shipping reliable, explainable AI:
+
+* **Shipping:** notebooks → services (FastAPI) → containers → cloud
+* **Observability:** metrics, logs, drift detection, SLOs
+* **Collaboration:** clear READMEs, Loom walkthroughs, issue-driven roadmaps
+
+**Downloadables:**
+
+* [Resume (PDF)](/resume.pdf)
+* [Case Study (PDF)](/case-study.pdf)
+
+---
+
+## 📬 Contact
+
+* **Email:** [email](mailto:esengendo@gmail.com)
+* **GitHub:** [github.com/esengendo](https://github.com/esengendo)
+* **LinkedIn:** [linkedin.com/in/](https://www.linkedin.com/in/)
+
+---
+
+*Thanks for visiting! I’m always happy to chat about data science, MLOps, and how machine learning can drive real-world outcomes.*
 
 
-#### Multi-PDF Document Query and Response Application
-
-- Built a PDF Conversational Interface Application integrating **LangChain**, **OpenAI**, and **Streamlit**, enabling interactive document engagement through a conversational chat interface.
-- Implemented text extraction and advanced processing techniques to segment and vectorize PDF content for efficient information retrieval.
-- Engineered a responsive Q&A system utilizing conversational models and memory buffers to deliver precise information from PDFs to users.
-- Designed a user-friendly Streamlit web interface for easy PDF upload, question posing, and instant response viewing.
-[link](https://github.com/esengendo/PDFConversation)
-
-
-#### IT Helpdesk Ticket Time Prediction Analysis
-
-- Crafted an ML model leveraging NLP to predict IT ticket resolution times, enhancing efficiency and customer satisfaction.
-- Employed text summarization and sentiment analysis for feature extraction to boost predictive accuracy.
-[link](https://github.com/esengendo/ticketanalysis)
-
-#### San Francisco Business Closure Analysis Project
-
-- Engineered a predictive **XGBoost Classifier** to forecast San Francisco business closures using historical datasets, targeting key economic and demographic predictors.
-- Leveraged data science methodologies, including geospatial analytics and clustering, to map and interpret business viability across San Francisco, providing data-driven recommendations for economic strategy and policy development.
-[link](https://github.com/esengendo/SanFranBusinesses)
-
-#### Emotion Detector Image Classification App
-
-- Implemented a comprehensive image preprocessing pipeline and leveraged TensorFlow's Sequential model architecture for facial expression analysis in diverse human emotions.  I then deployed the classification web application using TensorFlow and Streamlit.
-[link](https://github.com/esengendo/ImageClassification)
-
-#### Nvidia Stock Price Analysis
-
-- Implemented **LSTM** networks and **MACD** signals to analyze and predict NVIDIA Corporation stock movements using historical data.
-- Developed a machine learning model to visualize and forecast stock trends, focusing on educational and exploratory analysis.
-- Provided an **interactive Streamlit application** for users to engage with and explore stock price predictions and technical indicators.
-[link](https://github.com/esengendo/stockpredmacd)
-
-### Work Experience
-
-
-
-
-
-
-
-<!--
-**esengendo/esengendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
